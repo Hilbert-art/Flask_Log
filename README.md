@@ -1,0 +1,2 @@
+# flask_web
+学习flask后简单利用python进行数据库交互并结合前端写出一个登录框
