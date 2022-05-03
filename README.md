@@ -1,4 +1,4 @@
-# flask_web
+# flask_log
 > 学习flask后简单利用python进行数据库交互并结合前端写出一个登录框
 
 flask的主函数在main.py中，该项目以学习为主，并没有做出一个完整的CMS效果
